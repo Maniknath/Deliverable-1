@@ -1,0 +1,7 @@
+C:\Users\manik\OneDrive\Documents\C# Unit 1\Deliverable 1\Deliverable 1\bin\Debug\Deliverable 1.exe.config
+C:\Users\manik\OneDrive\Documents\C# Unit 1\Deliverable 1\Deliverable 1\bin\Debug\Deliverable 1.exe
+C:\Users\manik\OneDrive\Documents\C# Unit 1\Deliverable 1\Deliverable 1\bin\Debug\Deliverable 1.pdb
+C:\Users\manik\OneDrive\Documents\C# Unit 1\Deliverable 1\Deliverable 1\obj\Debug\Deliverable 1.csprojAssemblyReference.cache
+C:\Users\manik\OneDrive\Documents\C# Unit 1\Deliverable 1\Deliverable 1\obj\Debug\Deliverable 1.csproj.CoreCompileInputs.cache
+C:\Users\manik\OneDrive\Documents\C# Unit 1\Deliverable 1\Deliverable 1\obj\Debug\Deliverable 1.exe
+C:\Users\manik\OneDrive\Documents\C# Unit 1\Deliverable 1\Deliverable 1\obj\Debug\Deliverable 1.pdb
